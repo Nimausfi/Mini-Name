@@ -12,7 +12,7 @@ The purpose of the rock-paper-scissor game project is to build a game for a sing
 \
 
 
-<img src='rock-paper-scissors.png' width = 500>
+<img src='rock-paper-scissors.svg.png' width = 500>
 
 
 In this game, players have to select any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
