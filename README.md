@@ -15,9 +15,9 @@ The object of the rock-paper-scissor python project is to build a game for a sin
 \
 **3- Paper cover rock so paper wins**
 
-In this python project, players have to choose any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
+In this game, players have to choose any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
 
 To install the libraries we can use the pip installer command on the command prompt:
 
-pip install tkinter
-pip install random
+pip install **tkinter**
+pip install **random**
