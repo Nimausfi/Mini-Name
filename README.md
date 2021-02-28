@@ -9,9 +9,11 @@ If both players choose the same then the game is tied. Rock paper scissors game 
 
 The object of the rock-paper-scissor python project is to build a game for a single player that plays with a computer, anywhere, and anytime. This project is base on the rules that:
 
-**1- Rock blunts scissors so rock wins
-**2- Scissors cut the paper so scissors win
-**3- Paper cover rock so paper wins
+**1- Rock blunts scissors so rock wins**
+\
+**2- Scissors cut the paper so scissors win**
+\
+**3- Paper cover rock so paper wins**
 
 In this python project, players have to choose any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
 
