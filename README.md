@@ -9,8 +9,8 @@ The purpose of the rock-paper-scissor game project is to build a game for a sing
 **2- Scissors cut the paper so scissors win**
 \
 **3- Paper cover rock so paper wins**
-\
-\
+
+
 <p align="center">  
 <img src='rock-paper-scissors.svg.png' width = 500>
 
