@@ -2,7 +2,6 @@ from tkinter import *
 import random
 
 
-
 #window
 root = Tk()
 root.geometry('400x400')
@@ -78,3 +77,4 @@ Button(root, font = 'arial 13 bold', text = 'RESET'  ,padx =5,bg ='seashell4' ,c
 Button(root, font = 'arial 13 bold', text = 'EXIT'  ,padx =5,bg ='seashell4' ,command = Exit).place(x=230,y=310)
 
 root.mainloop()
+
