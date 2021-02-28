@@ -1,1 +1,4 @@
-# Mini-Name
+# Mini Name
+
+# Rock Paper Scissors Game
+
