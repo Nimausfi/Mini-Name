@@ -20,4 +20,5 @@ In this game, players have to choose any one from rock, paper, and scissors. The
 To install the libraries we can use the pip installer command on the command prompt:
 
 pip install **tkinter**
+/
 pip install **random**
