@@ -11,8 +11,6 @@ The purpose of the rock-paper-scissor game project is to build a game for a sing
 **3- Paper cover rock so paper wins**
 \
 
-<img src="rock-paper-scissors.svg">
-
 In this game, players have to select any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
 
 We need to install below libraries using the pip installer command on the command prompt:
