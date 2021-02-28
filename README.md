@@ -1,14 +1,14 @@
-# Rock-Paper-Scissors Game
+## Rock-Paper-Scissors Game
 
 Rock paper scissors game is a hand game that is usually played between 2 persons, each player can randomly form any one of three from their hand.
 \
 The purpose of the rock-paper-scissor game project is to build a game for a single player that plays with a computer. The project is based on the rules that:
 
-**Rock blunts scissors so rock wins**
-\
-**Scissors cut the paper so scissors win**
-\
-**Paper cover rock so paper wins**
+* Rock blunts scissors so rock wins
+
+* Scissors cut the paper so scissors win
+
+* Paper cover rock so paper wins
 
 
 <p align="center">  
